@@ -6,7 +6,7 @@ const config = {
   connector: 'mongodb',
   url: '',
   host: 'localhost',
-  port: 27018,
+  port: 27017,
   user: '',
   password: '',
   database: 'LazyPlantsDB-LB4',
